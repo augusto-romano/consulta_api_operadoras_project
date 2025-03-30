@@ -40,13 +40,19 @@ Para testar o projeto
 Backend:
 
 cd backend
+
 pip install -r requirements.txt
+
+.\venv\Scripts\activate
+
 py app.py
 
 Frontend:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 Acesse:
